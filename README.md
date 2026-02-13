@@ -22,16 +22,14 @@ I enjoy solving tricky logic problems, optimizing performance, and designing ful
 
 ## 🚀 Key Projects
 
-### 📦 StockPilot
-A powerful ERP system designed for inventory, sales, purchase, and production management.
+### 📦 Monotrax Inventory
+A powerful ERP system designed for sales, purchase management.
 
 **Features:**
-- Multi-device synchronization
-- POS integration
-- Raw material & finished goods tracking
-- Financial year data handling
-- Performance optimized queries
 - Real-time dashboards
+- Sales
+- Purchase
+- MIS Reports 
 
 ---
 
@@ -97,7 +95,7 @@ Animated company landing page with:
 
 ## 📈 What I’m Currently Working On
 
-- Turning StockPilot into a scalable ERP product
+- Turning Monotrax Inventory into a scalable ERP product
 - Building high-performance ERP engine
 - Enhancing multi-device synchronization
 - Modernizing legacy systems with Next.js
