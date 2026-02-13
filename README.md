@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Mritunjay Pramanick
 
 🚀 Full Stack Developer | ERP System Architect | Performance Optimizer  
-📍 India  
-📧 mritunjay.softech@gmail.com  
+📍 India 
 
 ---
 
